@@ -1,0 +1,6 @@
+package_name
+https://repo.anaconda.com/pkgs/main/linux-64/anaconda-navigator-1.9.7-py37_0.tar.bz2
+https://repo.anaconda.com/pkgs/main/linux-64/anaconda-2020.02-py38_0.tar.bz2
+https://repo.anaconda.com/pkgs/main/linux-64/atom-0.4.3-py38hfd86e86_0.tar.bz2
+https://repo.anaconda.com/pkgs/main/linux-64/gensim-3.8.0-py37h962f231_0.tar.bz2
+https://repo.anaconda.com/pkgs/main/linux-64/hdijupyterutils-0.12.6-py37_0.tar.bz2
